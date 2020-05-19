@@ -11,8 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/tutv/svgb.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "svg",
+    "buffer"
+  ],
+  "author": {
+    "name": "Tu TV",
+    "url": "https://github.com/tutv"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tutv/svgb/issues"
