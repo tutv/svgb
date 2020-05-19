@@ -1,0 +1,24 @@
+{
+  "name": "svgb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutv/svgb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tutv/svgb/issues"
+  },
+  "homepage": "https://github.com/tutv/svgb#readme",
+  "devDependencies": {
+    "@types/node": "^14.0.1"
+  }
+}
