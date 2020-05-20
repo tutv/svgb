@@ -1,3 +1,3 @@
-import SVGB from "./src/index.d"
+import * as SVGB from "./src/index.d"
 
 export = SVGB

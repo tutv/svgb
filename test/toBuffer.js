@@ -1,7 +1,6 @@
-const createSVGB = require('../index')
+const svgb = require('../index')
 const path = require('path')
 
-const svgb = createSVGB()
 
 setImmediate(async () => {
     const svgFile = path.join(__dirname, 'number.svg')

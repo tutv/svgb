@@ -9,8 +9,7 @@ npm install svgb
 
 ### Example code
 ```javascript
-const createSVGB = require('svgb')
-const svgb = createSVGB()
+const svgb = require('svgb')
 const path = require('path')
 
 
