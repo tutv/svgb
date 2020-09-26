@@ -1,6 +1,6 @@
 # svgb
 
-Generate svg to buffer.
+Generate svg to buffer with template.
 
 ### Installation
 ```
